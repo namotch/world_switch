@@ -1,0 +1,13 @@
+---
+slug: :world_switch
+depends:
+  mikutter: 3.6.5
+  plugin:
+  - settings
+  - uitranslator
+  - achievement
+  - world
+version: '1.0'
+author: namotch
+description: >-
+  起動時に指定した world をアクティブにします。
